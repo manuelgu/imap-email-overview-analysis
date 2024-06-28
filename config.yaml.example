@@ -1,0 +1,5 @@
+#host: "imap.mail.me.com" # iCloud
+host: "smtp.your-server.com"
+username: "username1"
+password: "password1"
+inbox_name: "inbox"
